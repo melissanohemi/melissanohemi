@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Melissa Castro
 
+🌱 I’m currently learning Full Stack development with Javascript, React, and Python 
+
 <!--
 **melissanohemi/melissanohemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
